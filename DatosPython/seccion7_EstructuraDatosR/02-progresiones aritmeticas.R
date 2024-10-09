@@ -1,0 +1,13 @@
+#Secuencia la diferencia entre a y b (el primero que no se pasa del limite)
+secuencee <-  seq(5,50, by=4 )
+print(secuencee)
+secuencee1 <-  seq(500,0, by=-50)
+print(secuencee1)
+secuence3  <- seq(2,length.out=9,by=3)
+print(secuence3)
+#ejercicio1
+print(1:20)
+paress = seq(2,20,by=2)
+print(paress)
+equis_distantes <- seq(17,98, length.out=4)
+print(equis_distantes)
